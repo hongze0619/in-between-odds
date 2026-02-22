@@ -1,0 +1,4 @@
+inbetween
+*.o
+*.out
+*.exe
