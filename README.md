@@ -1,6 +1,6 @@
-# In-Between (射龙门) Odds Calculator
+# In-Between Odds Calculator
 
-A multi-round odds calculator for the Chinese New Year card game "In-Between / 射龙门" using one standard 52-card deck (no Joker).
+A multi-round odds calculator for the Chinese New Year card game "In-Between" using one standard 52-card deck (no Joker).
 
 ## Build
 gcc inbetween.c -O2 -Wall -Wextra -o inbetween
